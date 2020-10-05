@@ -1,5 +1,5 @@
 # PROBLEM NUMBER
-# https:https://cses.fi/problemset/task/1692
+# https://cses.fi/problemset/task/1692
 # Sweta Snigdha Sahoo
 # author : swetasahoo29
 
